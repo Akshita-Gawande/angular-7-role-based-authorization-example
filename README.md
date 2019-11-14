@@ -1,5 +1,12 @@
-# angular-7-role-based-authorization-example
 
-Angular 7 - Role Based Authorization Example with Webpack 4
+Angular Based Authorization assignment
 
-To see a demo and further details go to http://jasonwatmore.com/post/2018/11/22/angular-7-role-based-authorization-tutorial-with-example
+To run this project you need to run some npm commands in terminal 
+--------------------------------------------------------------------
+
+1.Install 'NodeJS' and 'NPM'
+2.Install all required npm packages by running npm install from the command line in the project root folder (where the package.json is located).
+3.Start the application by running npm start from the command line in the project root folder.
+4.Your browser should automatically open at http://localhost:8080 with the login page of the demo authorization app displayed.
+
+
